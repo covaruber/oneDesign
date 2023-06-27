@@ -1,6 +1,6 @@
 # oneDesign: a single interface function to fit all experimental designs
 
-Derived from EBS meetings. The breeding analytics unit committed to create a function to interface all across and within environmental designs.
+Derived from EBS meetings. The OneCG breeding analytics unit committed to create a function to interface all other across and within environmental designs functions currently enabled in EBS.
 
 ## Installation
 
